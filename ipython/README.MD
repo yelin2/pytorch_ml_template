@@ -6,7 +6,6 @@ Interactive Python은 코딩을 하는데 있어서 다양한 곳에 활용
     
 1. 모듈 별 코드 unit test
 2. inference result visualization
-3. 
 
 ## IPython in VSCode
 1. Install Extension
