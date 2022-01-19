@@ -1,6 +1,8 @@
 # Anaconda
 
-Anaconda는 실험 환경을 설정하기 위해 사용되는 일종의 virtual environemnt이다. 하나의 local computer에서 다양한 version의 실험환경을 구축하기에 적합하다.
+Anaconda는 실험 환경을 설정하기 위해 사용되는 일종의 virtual environemnt이다. 
+
+그렇기 때문에 하나의 local computer에서 다양한 version의 실험환경을 구축하기에 적합하다.
 
 예를 들어, CARLA simulator를 실행시키기 위해서는 python 3.6을 사용해야 하고 pytorch를 사용하기 위해 python 3.9를 사용해야 한다고 해보자. 이 때, 각 필요에 맞는 2개의 anaconda environment를 생성해 놓고 필요할 때마다 environment를 activate 해서 사용하면 된다.
 
