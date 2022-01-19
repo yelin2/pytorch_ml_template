@@ -1,0 +1,1 @@
+conda install -n pytorch ipykernel --update-deps --force-reinstall
